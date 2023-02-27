@@ -1,0 +1,17 @@
+@media screen and (min-width: 768px) {
+    .chamada__texto {
+        max-width: 600px;
+    }
+
+    .cartao {
+        max-width: 400px;
+    }
+
+    .institucional__contato-email {
+        display: inline-block;
+    }
+
+    .institucional__video {
+        width: 100%;
+    }
+}
